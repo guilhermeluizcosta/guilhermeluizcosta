@@ -1,10 +1,15 @@
-### Olá! Eu sou Guilherme Luiz
+### Guilherme Luiz
 
-- 🌱 Atualmente estudando Python
+- 💻 Atualmente focado em Python.
+- 📘 Python, Java, SQL
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeluizcosta&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeluizcosta&layout=compact)
+##
+
+<div align="center">
+  <a href="https://github.com/guilhermeluizcosta">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeluizcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeluizcosta&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ##
 <div> 
