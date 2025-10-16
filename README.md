@@ -1,7 +1,6 @@
 ### Guilherme Luiz
 
-- 💻 Atualmente focado em Python.
-- 📘 Python, Java, SQL
+- 📘 Java, SQL, Python
 
 ##
 
